@@ -26,6 +26,6 @@ Bryan - Slack your partner. You should both edit an HTML file. Add a paragraph a
 
 Patrick -
 
-Bryan -
+Bryan - You should edit five CSS properties.
 
 Patrick -
