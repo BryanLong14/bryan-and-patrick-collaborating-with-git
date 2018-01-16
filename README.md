@@ -8,3 +8,23 @@ Work with a partner to edit a project and manage your changes with git.
 3. Taking turns, go to [this app](https://random-task-generator.firebaseapp.com) and generate a task. Do the task and make your changes available to your partner on Github.
 4. Once you've completed one task, slack your partner to start theirs. Do this 5 times.
 5. When you complete the process with working code, you should both submit the link to the repo.
+
+Bryan - You should create an array of objects. Each object should have a name and age.
+
+Patrick -
+
+Bryan -
+
+Patrick -
+
+Bryan -
+
+Patrick -
+
+Bryan -
+
+Patrick -
+
+Bryan -
+
+Patrick -
