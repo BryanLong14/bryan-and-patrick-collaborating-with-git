@@ -28,4 +28,4 @@ Patrick - You should create a new HTML file. Link to it from index.html
 
 Bryan - You should edit five CSS properties.
 
-Patrick -
+Patrick - You should remove a file other than index.html.
