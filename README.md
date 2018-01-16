@@ -14,7 +14,7 @@ Bryan - You should create an array of objects. Each object should have a name an
 
 Patrick - You should create a new HTML file. Link to it from index.html
 
-Bryan -
+Bryan - Remove a file other than index.html.
 
 Patrick -
 
