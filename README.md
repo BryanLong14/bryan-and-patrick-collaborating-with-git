@@ -24,7 +24,7 @@ Patrick - You should create a new CSS file. Link to it from one of your HTML fil
 
 Bryan - Slack your partner. You should both edit an HTML file. Add a paragraph about something you like.
 
-Patrick -
+Patrick - You should create a new HTML file. Link to it from index.html
 
 Bryan -
 
