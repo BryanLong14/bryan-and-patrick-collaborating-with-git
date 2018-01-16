@@ -20,7 +20,7 @@ Patrick - You should create a new directory. Move at least one file into that di
 
 Bryan - You should edit an HTML file. Add a paragraph about something you like.
 
-Patrick - You should both create a new CSS file. Link to it from one of your HTML files.
+Patrick - You should create a new CSS file. Link to it from one of your HTML files.
 
 Bryan - Slack your partner. You should both edit an HTML file. Add a paragraph about something you like.
 
