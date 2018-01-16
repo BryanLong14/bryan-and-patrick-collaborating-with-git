@@ -18,7 +18,7 @@ Bryan - Remove a file other than index.html.
 
 Patrick - You should create a new directory. Move at least one file into that directory.
 
-Bryan -
+Bryan - You should edit an HTML file. Add a paragraph about something you like.
 
 Patrick -
 
